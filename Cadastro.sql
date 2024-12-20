@@ -1,5 +1,5 @@
-create database cadastro;
-use cadastro;
+create database projetoQuestoesHistoria;
+use projetoQuestoesHistoria;
 
 create table usuario(
 id_usuario int not null auto_increment primary key,

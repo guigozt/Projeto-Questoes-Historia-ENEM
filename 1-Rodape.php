@@ -22,7 +22,7 @@
         <div class="divContatos">
             <div class="colunaContatos">
                 <span><b>Contatos</b></span>
-                <p>guilherme.silva2616@etec.sp.gov.br</p>
+                <p>guilhermegomeszt@gmail.com</p>
             </div>
         </div>
 

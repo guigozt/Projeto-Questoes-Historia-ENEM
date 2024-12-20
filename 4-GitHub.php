@@ -24,7 +24,7 @@
       <div class="card-body">
         <h5 class="card-title">Conheça o meu Github!</h5>
         <p class="card-text">O código deste projeto está no meu repositório</p>
-        <a href="https://github.com/guigomes2616/Projeto-PW2" class="btn btn-primary">Ir para o repositório</a>
+        <a href="https://github.com/guigozt/Questoes-Historia-PHP" class="btn btn-primary">Ir para o repositório</a>
       </div>
     </div>
     
