@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">Copie o script do banco de dados do arquivo: "Cadastro.sql" e cole no programa recomendado do MySqlWorkbench com as configurações: "dbHost=192.168.8.10; dbUsername=grupophp06; dbPassword=php06; dbName=grupo06php</h4>
+<h4 align="left">Copie o script do banco de dados do arquivo: "Cadastro.sql" e cole no programa recomendado do MySqlWorkbench com as configurações: "dbHost='localhost'; dbUsername='root'; dbPassword=''; dbName='projetoQuestoesHistoria'</h4>
 
 ###
 
